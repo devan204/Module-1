@@ -1,29 +1,37 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – character comparision program in python
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program that reads two characters from the user, compares them using relational operators < and >, and prints the result as True or False.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+1.Start the program.
+
+2.Read the first character from the user and store it in variable a.
+
+3.Read the second character from the user and store it in variable b.
+
+4.Compare if a is less than b and print the result.
+
+5.Compare if a is greater than b and print the result.
+
+6.End the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
 # Write your code here
 
-num1 = 123
-num2 = 456
-num3 = 789
+# Read two characters
+a = str(input())
+b = str(input())
 
-print(num1)
-print(num2)
-print(num3)
+# Compare and print results
+print(a < b)
+print(a > b)
+
 
 ```
 ## OUTPUT
+![Screenshot (209)](https://github.com/user-attachments/assets/9742dd04-ee50-4b91-8af1-845c5fd89f5e)
 
 ## RESULT
+Thus the python program for character comparision was implemented and executed successfully.
