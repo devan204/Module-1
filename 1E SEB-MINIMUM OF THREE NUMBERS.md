@@ -1,3 +1,6 @@
+
+
+
 # Experiment No: 1e – SEB-Minimum of Three Numbers
 
 ## AIM  
@@ -16,8 +19,6 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
 # Write your code here
 
 num1 = int(input())
@@ -30,5 +31,8 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+![Screenshot (208)](https://github.com/user-attachments/assets/bd2752ca-60c5-4595-9770-edce139414f9)
+
 
 ## RESULT
+Thus the python program for finding minimum of three numbers is executed successfully.
